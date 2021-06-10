@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a Senior Full Stack Developer and a Fastest Learner!
-
 ## I'm a Senior Full Stack Developer and a Fastest Learner!
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 - I ❤️ to connect with more people.
