@@ -17,3 +17,7 @@
 <a href="https://www.heroku.com/" target="_blank"> <img align="left" src="./svgassets/heroku.svg" alt="vue" height="38px"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img align="left" src="./svgassets/netlify.svg" alt="vue" height="38px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='45px'/> </a>
+ 
+ <br />
+ 
+![picture](https://raw.githubusercontent.com/josealvara/josealvara/main/normal_5d252915bfcf9.webp) <br />
