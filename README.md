@@ -22,4 +22,4 @@
  <br />
  <br />
  
-![picture](https://raw.githubusercontent.com/josealvara/josealvara/main/normal_5d252915bfcf9.webp) <br />
+<!-- ![picture](https://raw.githubusercontent.com/josealvara/josealvara/main/normal_5d252915bfcf9.webp) <br /> -->
